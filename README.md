@@ -1,2 +1,3 @@
 # ProjetosBiolab
-Repositório para armazenar conteúdo das aulas de Projeto Biolab Senai
+
+Repositório para armazenar códigos fontes e aulas de Projeto FrontEnd - Biolab Senai
